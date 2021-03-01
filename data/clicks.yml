@@ -1,2 +1,24 @@
-date: 1970-01-01
+date: '2021-03-01 00:47:33.235337'
 pages:
+- clicks: 5
+  url: https://yourname.github.io/
+- clicks: 5
+  url: https://yourname.github.io/ranking/
+- clicks: 5
+  url: https://yourname.github.io/categories/
+- clicks: 5
+  url: https://yourname.github.io/categories/hello/
+- clicks: 5
+  url: https://yourname.github.io/post/hello-world/
+- clicks: 5
+  url: https://yourname.github.io/tags/hello-world/
+- clicks: 5
+  url: https://yourname.github.io/post/
+- clicks: 5
+  url: https://yourname.github.io/tags/
+- clicks: 5
+  url: https://yourname.github.io/search/
+- clicks: 5
+  url: https://yourname.github.io/links/
+- clicks: 5
+  url: https://yourname.github.io/about/
